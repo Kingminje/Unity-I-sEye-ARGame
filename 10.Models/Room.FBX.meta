@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: afbbb4d43755b5e41afc95ee8dc4ca0c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 2d-wall
+    100002: 2d-wall-A
+    100004: 3d-col(Base_1)
+    100006: 3d-col(Base_2)
+    100008: 3d-col(Base_3)
+    100010: 3d-col(Base_4)
+    100012: 3d-col_1
+    100014: 3d-col_2
+    100016: 3d-col_3
+    100018: 3d-col_4
+    100020: 3d-plrow
+    100022: 3d-wall(base)1
+    100024: 3d-wall(base)2
+    100026: 3d-wall(base)3
+    100028: 3d-wall(base)4
+    100030: 3d-wall(base)5
+    100032: 3d-wall(base)6
+    100034: 3d-wall_1
+    100036: 3d-wall_2
+    100038: 3d-wall_3
+    100040: 3d-wall_4
+    100042: 3d-wall_5
+    100044: 3d-wall_6
+    100046: 3d-wall_8
+    100048: art-wall_1
+    100050: art-wall_2
+    100052: art-wall_3
+    100054: //RootNode
+    400000: 2d-wall
+    400002: 2d-wall-A
+    400004: 3d-col(Base_1)
+    400006: 3d-col(Base_2)
+    400008: 3d-col(Base_3)
+    400010: 3d-col(Base_4)
+    400012: 3d-col_1
+    400014: 3d-col_2
+    400016: 3d-col_3
+    400018: 3d-col_4
+    400020: 3d-plrow
+    400022: 3d-wall(base)1
+    400024: 3d-wall(base)2
+    400026: 3d-wall(base)3
+    400028: 3d-wall(base)4
+    400030: 3d-wall(base)5
+    400032: 3d-wall(base)6
+    400034: 3d-wall_1
+    400036: 3d-wall_2
+    400038: 3d-wall_3
+    400040: 3d-wall_4
+    400042: 3d-wall_5
+    400044: 3d-wall_6
+    400046: 3d-wall_8
+    400048: art-wall_1
+    400050: art-wall_2
+    400052: art-wall_3
+    400054: //RootNode
+    2100000: 3d-plrow
+    2100002: 3d-col(Base)
+    2100004: 3d-col
+    2100006: art-wall_1
+    2100008: art-wall_2
+    2300000: 3d-col(Base_1)
+    2300002: 3d-col(Base_2)
+    2300004: 3d-col(Base_3)
+    2300006: 3d-col(Base_4)
+    2300008: 3d-col_1
+    2300010: 3d-col_2
+    2300012: 3d-col_3
+    2300014: 3d-col_4
+    2300016: 3d-plrow
+    2300018: 3d-wall(base)1
+    2300020: 3d-wall(base)2
+    2300022: 3d-wall(base)3
+    2300024: 3d-wall(base)4
+    2300026: 3d-wall(base)5
+    2300028: 3d-wall(base)6
+    2300030: 3d-wall_1
+    2300032: 3d-wall_2
+    2300034: 3d-wall_3
+    2300036: 3d-wall_4
+    2300038: 3d-wall_5
+    2300040: 3d-wall_6
+    2300042: 3d-wall_8
+    2300044: art-wall_1
+    2300046: art-wall_2
+    2300048: art-wall_3
+    3300000: 3d-col(Base_1)
+    3300002: 3d-col(Base_2)
+    3300004: 3d-col(Base_3)
+    3300006: 3d-col(Base_4)
+    3300008: 3d-col_1
+    3300010: 3d-col_2
+    3300012: 3d-col_3
+    3300014: 3d-col_4
+    3300016: 3d-plrow
+    3300018: 3d-wall(base)1
+    3300020: 3d-wall(base)2
+    3300022: 3d-wall(base)3
+    3300024: 3d-wall(base)4
+    3300026: 3d-wall(base)5
+    3300028: 3d-wall(base)6
+    3300030: 3d-wall_1
+    3300032: 3d-wall_2
+    3300034: 3d-wall_3
+    3300036: 3d-wall_4
+    3300038: 3d-wall_5
+    3300040: 3d-wall_6
+    3300042: 3d-wall_8
+    3300044: art-wall_1
+    3300046: art-wall_2
+    3300048: art-wall_3
+    4300000: 3d-plrow
+    4300002: 3d-col(Base_2)
+    4300004: 3d-col(Base_4)
+    4300006: 3d-col(Base_3)
+    4300008: 3d-col(Base_1)
+    4300010: 3d-col_1
+    4300012: 3d-col_3
+    4300014: 3d-col_4
+    4300016: 3d-col_2
+    4300018: 3d-wall(base)1
+    4300020: 3d-wall(base)4
+    4300022: 3d-wall(base)6
+    4300024: 3d-wall(base)5
+    4300026: 3d-wall(base)3
+    4300028: 3d-wall(base)2
+    4300030: 3d-wall_1
+    4300032: 3d-wall_2
+    4300034: 3d-wall_3
+    4300036: 3d-wall_4
+    4300038: 3d-wall_5
+    4300040: 3d-wall_6
+    4300042: 3d-wall_8
+    4300044: art-wall_3
+    4300046: art-wall_1
+    4300048: art-wall_2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3d-col
+    second: {fileID: 2100000, guid: cd4d4dc96420283469411feac29a8008, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3d-col(Base)
+    second: {fileID: 2100000, guid: ab3b00619143f864c8b204a8a3fe4317, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3d-plrow
+    second: {fileID: 2100000, guid: 3b22309bc0718e84b95ab69974bac2b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: art-wall_1
+    second: {fileID: 2100000, guid: 0a2d2aefe0fd90a46a6d88c78df43463, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: art-wall_2
+    second: {fileID: 2100000, guid: cfb59aff9ce21ed418fa1dcd48c336a3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
